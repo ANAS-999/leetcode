@@ -13,7 +13,6 @@ class Solution {
       stdout.write("null\n");
       return;
     }
-    ;
 
     ListNode? p = list1;
     while (p != null) {
