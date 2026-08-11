@@ -63,7 +63,5 @@ void main(List<String> args) {
     TestData(word: "bbba", expectedLen: 2),
   ];
 
-  print("START");
   solution.test(listData);
-  print(solution.lengthOfLongestSubstring("abcabcbb"));
 }

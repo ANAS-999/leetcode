@@ -1,8 +1,3 @@
-//     100
-//  110010
-// ---------
-//  110110
-
 import 'dart:math';
 
 class Solution {
