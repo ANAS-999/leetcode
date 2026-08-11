@@ -1,0 +1,69 @@
+## OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+## Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+## Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+
+## Dart / Flutter
+.dart_tool/
+.packages
+pubspec.lock
+
+## Java
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+## Code Runner / temp files
+code_runner_temp/
+.code_runner/
+tempCodeRunnerFile*
+*.tmp
+*.temp
+
+## Tests / test artifacts
+test-results/
+reports/
+*.trx
+*.testlog
+
+## Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+## Build / misc
+dist/
+build/
+out/
+tmp/
+*.log
+
+## LeetCode / local artifacts
+.cache/
+.leetcode/
