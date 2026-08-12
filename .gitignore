@@ -49,6 +49,7 @@ test-results/
 reports/
 *.trx
 *.testlog
+test.*
 
 ## Node / JS
 node_modules/
